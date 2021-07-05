@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Preloading GameJam Win"
+echo "Installing pygame package to your PC"
+py -m pip install -U pygame --user
